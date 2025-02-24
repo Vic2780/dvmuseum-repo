@@ -1,5 +1,5 @@
 # dvmuseum-repo
-public repository for distribution of Dragon Village Museum archives. for other Dragon Village repositories, see my <a href="https://github.com/Vic2780">user profile</a>.
+public repository for distribution of Dragon Village Museum archives. for other Dragon Village repositories, see my <a href="https://github.com/Vic2780?tab=repositories">user profile</a>.
 <br><br>
 i do <i>not</i> own any assets contained within this repository. they are copyrighted property of highbrow, and are <i>not</i> for commercial use.
 <br><br>
